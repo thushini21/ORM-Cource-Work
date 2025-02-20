@@ -14,7 +14,7 @@ import javafx.util.Duration;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
-
+///sjhhghfvdhvggn
 public class LodingController implements Initializable {
 
     @FXML
